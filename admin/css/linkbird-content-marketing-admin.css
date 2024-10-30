@@ -1,0 +1,13 @@
+#lbcm_admin .lbcm_help {
+	color: #aaa;
+	font-size: .9em
+}
+
+#lbcm_admin .lbcm_error {
+	border: 1px solid #dc3232;
+}
+
+#lbcm_admin .lbcm_error_message {
+	color: #dc3232;
+	margin-top: 0;
+}

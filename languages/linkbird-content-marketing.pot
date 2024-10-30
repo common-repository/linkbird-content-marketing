@@ -1,0 +1,113 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: contentbird Content Marketing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 07 2016 11:10:56 GMT+0200 (CEST)\n"
+"POT-Revision-Date: Tue Jun 07 2016 11:14:52 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: dominik <mail@dominik-hanke.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "contentbird Content Marketing"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://de.contentbird.io"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create drafts and publish posts out of contentbird. On publishing the plugin "
+"will automatically update the content status in the contentbird tool."
+msgstr ""
+
+#. Author of the plugin
+msgid "contentbird GmbH"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://de.contentbird.io"
+msgstr ""
+
+#: ../admin/class-linkbird-content-marketing-admin.php:106
+msgid "Bitte geben Sie einen Installations Token ein."
+msgstr ""
+
+#: ../admin/class-linkbird-content-marketing-admin.php:111
+msgid "Der eingegebene Token ist ungültig."
+msgstr ""
+
+#: ../admin/class-linkbird-content-marketing-admin.php:151 ../admin/class-
+#: linkbird-content-marketing-admin.php:162
+msgid "Fehler bei der Anfrage. Bitte kontaktieren Sie den Support."
+msgstr ""
+
+#: ../admin/class-linkbird-content-marketing-admin.php:166
+msgid "Der Installations Token ist ungültig."
+msgstr ""
+
+#: ../admin/class-linkbird-content-marketing-admin.php:170
+msgid "Unbekannter Fehler. Bitte kontaktieren Sie den Support."
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-messages.php:4
+msgid "Vielen Dank für die Installation des \"contentbird Content Marketing\" Plugins!"
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-messages.php:8
+#, php-format
+msgid ""
+"Bitte öffnen Sie jetzt die <a href=\"%1$s\">Plugin-Einstellungen</a> um die "
+"Installation abzuschließen."
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-messages.php:14
+msgid "Das Plugin \"linkbird Content Marketing\" hat Probleme festgestellt:"
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-messages.php:23
+#, php-format
+msgid ""
+"Öffnen Sie jetzt die <a href=\"%1$s\">Plugin-Einstellungen</a> um die Probleme "
+"zu beheben."
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-options.php:4
+msgid "Das Plugin wurde erfolgreich installiert und kann nun verwendet werden!"
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-options.php:8
+msgid ""
+"Es gab einen Fehler beim Aktivieren des Plugin, bitte versuchen Sie es "
+"später erneut."
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-options.php:22
+msgid "Tragen Sie hier bitte Ihren linkbird Installations Token ein:"
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-options.php:25
+msgid "contentbird Installations Token"
+msgstr ""
+
+#: ../admin/views/linkbird-content-marketing-options.php:36
+msgid "Speichern"
+msgstr ""
